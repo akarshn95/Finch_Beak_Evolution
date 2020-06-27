@@ -1,2 +1,2 @@
 # Finch_Beak_Evolution
-Statistical Data Analysis of beaks of birds from a species over the years 
+Statistical Data Analysis of beaks of birds from a species, Geospiza Scandens over the years 1975 to 2012. Study and hypothesis testing of change in beak depths and lengths for the species from 1975 to 2012. Also, linear regression tests on the relationship between the bird's beak length and width. The data was collected from a remote archipelago, where evolution of species takes place in a pristine environment untouched from the outside world, to study the evolution of birds with respect to Darwin's theory. 
